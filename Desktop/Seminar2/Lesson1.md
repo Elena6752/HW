@@ -24,3 +24,11 @@
 
 ## Удаление веток
 Для удаления ветки ввести команду *git branch -d 'name branch'*.
+
+## Добавление картинок
+Команда для добавления *картинки* выглядит следующим образом:
+![котик](https://img.desktopwallpapers.ru/animals/pics/wide/1920x1080/55aebb2f4aff271b807697b8cb00a5d0.jpg)
+
+## Добавление ссылок
+
+[работа с Markdown](https://gist.github.com/Jekins/2bf2d0638163f1294637)
